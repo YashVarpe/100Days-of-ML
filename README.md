@@ -59,6 +59,6 @@ Master machine learning fundamentals through hands-on implementation and daily p
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
-----
+---
 
 **Started:** January 10 2026
