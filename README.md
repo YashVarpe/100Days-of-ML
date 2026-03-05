@@ -43,6 +43,7 @@ Each folder represents one day of learning with dedicated README files explainin
 - Day 45 - Feature Construction and Feature Splitting
 - Day 47 - PCA
 - Day 48 - Simple Linear Regression
+- Day 48 - Regression Metrics
 
 ## 🎯 Goal
 
